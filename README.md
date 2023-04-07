@@ -9,6 +9,7 @@
 
 ## Contact
 
+- 🌍: **[skolz.vercel.app](https://skolz.vercel.app)
 - 📩: **gabriel.zanzotti@gmail.com**
 - 🐦: **[@SKOLZZ](https://twitter.com/SKOLZZ)**
 - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>&nbsp;: **[Gabriel Zanzotti](https://www.linkedin.com/in/SKOLZ/)**
