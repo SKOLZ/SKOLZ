@@ -1,5 +1,5 @@
 ## Hello there! 👋
-### I'm SKOLZ, a Software Engineer specialized in Front-End development. I led [Wolox](https://www.wolox.co)'s Front-End and Mobile teams until 2022 and I'm currently working as a Senior Front-End developer at [Stryda](https://www.stryda.gg).
+### I'm SKOLZ, a Software Engineer specialized in Front-End development. I led Wolox's Front-End and Mobile teams until 2022 and I'm currently working as a Senior Front-End developer at [Stryda](https://www.stryda.gg).
 
 ## About me
 - I'm an e-sports fan 🎮
